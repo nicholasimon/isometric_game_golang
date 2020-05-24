@@ -1,2 +1,2 @@
 # isometric_game_golang
-isometric layout for a game grid made with golang and raylib
+isometric layout for a game grid made with go/golang and raylib with player movement
